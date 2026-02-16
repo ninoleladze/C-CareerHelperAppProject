@@ -1,0 +1,535 @@
+[
+  {
+    "Id": 1,
+    "Name": "Software Developer",
+    "Category": "IT",
+    "Description": "Builds software applications.",
+    "RequiredSkills": [
+      "Programming",
+      "Algorithms",
+      "Problem-solving"
+    ],
+    "AverageSalary": 60000,
+    "LearningPath": "CS degree or bootcamp; build projects"
+  },
+  {
+    "Id": 2,
+    "Name": "Web Developer",
+    "Category": "IT",
+    "Description": "Creates websites and web apps.",
+    "RequiredSkills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "AverageSalary": 55000,
+    "LearningPath": "HTML/CSS/JS; a modern framework"
+  },
+  {
+    "Id": 3,
+    "Name": "Data Analyst",
+    "Category": "IT",
+    "Description": "Analyzes data to find insights.",
+    "RequiredSkills": [
+      "SQL",
+      "Excel",
+      "Visualization"
+    ],
+    "AverageSalary": 58000,
+    "LearningPath": "Statistics; SQL; dashboards"
+  },
+  {
+    "Id": 4,
+    "Name": "Mobile Developer",
+    "Category": "IT",
+    "Description": "Builds Android/iOS apps.",
+    "RequiredSkills": [
+      "Kotlin/Swift",
+      "UI",
+      "APIs"
+    ],
+    "AverageSalary": 59000,
+    "LearningPath": "Kotlin/Swift; UI; app stores"
+  },
+  {
+    "Id": 5,
+    "Name": "DevOps Engineer",
+    "Category": "IT",
+    "Description": "Automates deployment and CI/CD.",
+    "RequiredSkills": [
+      "CI/CD",
+      "Cloud",
+      "Scripting"
+    ],
+    "AverageSalary": 65000,
+    "LearningPath": "Cloud; pipelines; scripting"
+  },
+  {
+    "Id": 6,
+    "Name": "AI Engineer",
+    "Category": "IT",
+    "Description": "Builds AI models and pipelines.",
+    "RequiredSkills": [
+      "Python",
+      "ML",
+      "Deep Learning"
+    ],
+    "AverageSalary": 70000,
+    "LearningPath": "ML; DL; Python"
+  },
+  {
+    "Id": 7,
+    "Name": "Doctor",
+    "Category": "Medicine",
+    "Description": "Diagnoses and treats patients.",
+    "RequiredSkills": [
+      "Clinical",
+      "Communication",
+      "Ethics"
+    ],
+    "AverageSalary": 90000,
+    "LearningPath": "Medical school; residency"
+  },
+  {
+    "Id": 8,
+    "Name": "Nurse",
+    "Category": "Medicine",
+    "Description": "Provides patient care.",
+    "RequiredSkills": [
+      "Care",
+      "Medical Knowledge",
+      "Communication"
+    ],
+    "AverageSalary": 50000,
+    "LearningPath": "Nursing program; practice"
+  },
+  {
+    "Id": 9,
+    "Name": "Biologist",
+    "Category": "Medicine",
+    "Description": "Studies living organisms.",
+    "RequiredSkills": [
+      "Lab",
+      "Research",
+      "Biology"
+    ],
+    "AverageSalary": 56000,
+    "LearningPath": "Biology degree; lab work"
+  },
+  {
+    "Id": 10,
+    "Name": "Pharmacist",
+    "Category": "Medicine",
+    "Description": "Prepares and dispenses medication.",
+    "RequiredSkills": [
+      "Pharmacology",
+      "Accuracy",
+      "Counseling"
+    ],
+    "AverageSalary": 65000,
+    "LearningPath": "Pharmacy degree; licensing"
+  },
+  {
+    "Id": 11,
+    "Name": "Lab Technician",
+    "Category": "Medicine",
+    "Description": "Performs lab tests.",
+    "RequiredSkills": [
+      "Lab",
+      "Measurement",
+      "Quality"
+    ],
+    "AverageSalary": 48000,
+    "LearningPath": "Lab training; safety"
+  },
+  {
+    "Id": 12,
+    "Name": "Psychologist",
+    "Category": "Medicine",
+    "Description": "Studies behavior and mind.",
+    "RequiredSkills": [
+      "Empathy",
+      "Research",
+      "Communication"
+    ],
+    "AverageSalary": 60000,
+    "LearningPath": "Psychology degree; practice"
+  },
+  {
+    "Id": 13,
+    "Name": "Teacher",
+    "Category": "Education",
+    "Description": "Teaches students.",
+    "RequiredSkills": [
+      "Communication",
+      "Planning",
+      "Mentoring"
+    ],
+    "AverageSalary": 40000,
+    "LearningPath": "Teaching practice; pedagogy"
+  },
+  {
+    "Id": 14,
+    "Name": "University Lecturer",
+    "Category": "Education",
+    "Description": "Teaches at university.",
+    "RequiredSkills": [
+      "Subject Expertise",
+      "Presentation",
+      "Research"
+    ],
+    "AverageSalary": 52000,
+    "LearningPath": "Advanced degree; research"
+  },
+  {
+    "Id": 15,
+    "Name": "Tutor",
+    "Category": "Education",
+    "Description": "Guides students individually.",
+    "RequiredSkills": [
+      "Patience",
+      "Explaining",
+      "Organization"
+    ],
+    "AverageSalary": 35000,
+    "LearningPath": "Subject practice; coaching"
+  },
+  {
+    "Id": 16,
+    "Name": "Instructional Designer",
+    "Category": "Education",
+    "Description": "Designs learning materials.",
+    "RequiredSkills": [
+      "Design",
+      "Storyboarding",
+      "Assessment"
+    ],
+    "AverageSalary": 50000,
+    "LearningPath": "Learning theory; tools"
+  },
+  {
+    "Id": 17,
+    "Name": "Education Coordinator",
+    "Category": "Education",
+    "Description": "Manages educational programs.",
+    "RequiredSkills": [
+      "Organization",
+      "Leadership",
+      "Documentation"
+    ],
+    "AverageSalary": 45000,
+    "LearningPath": "Planning; coordination"
+  },
+  {
+    "Id": 18,
+    "Name": "School Counselor",
+    "Category": "Education",
+    "Description": "Supports students\u0027 development.",
+    "RequiredSkills": [
+      "Empathy",
+      "Communication",
+      "Planning"
+    ],
+    "AverageSalary": 42000,
+    "LearningPath": "Counseling; guidance"
+  },
+  {
+    "Id": 19,
+    "Name": "Project Manager",
+    "Category": "Business",
+    "Description": "Leads projects.",
+    "RequiredSkills": [
+      "Planning",
+      "Leadership",
+      "Communication"
+    ],
+    "AverageSalary": 60000,
+    "LearningPath": "PM frameworks; certification"
+  },
+  {
+    "Id": 20,
+    "Name": "Business Analyst",
+    "Category": "Business",
+    "Description": "Analyzes business processes.",
+    "RequiredSkills": [
+      "Analysis",
+      "Documentation",
+      "SQL/Excel"
+    ],
+    "AverageSalary": 60000,
+    "LearningPath": "Requirements; data; domain"
+  },
+  {
+    "Id": 21,
+    "Name": "Accountant",
+    "Category": "Business",
+    "Description": "Manages financial records.",
+    "RequiredSkills": [
+      "Accounting",
+      "Accuracy",
+      "Excel"
+    ],
+    "AverageSalary": 55000,
+    "LearningPath": "Accounting degree; software"
+  },
+  {
+    "Id": 22,
+    "Name": "Marketing Specialist",
+    "Category": "Business",
+    "Description": "Creates marketing strategies.",
+    "RequiredSkills": [
+      "Creativity",
+      "Analytics",
+      "Communication"
+    ],
+    "AverageSalary": 52000,
+    "LearningPath": "Digital marketing; content"
+  },
+  {
+    "Id": 23,
+    "Name": "Sales Manager",
+    "Category": "Business",
+    "Description": "Leads sales teams.",
+    "RequiredSkills": [
+      "Communication",
+      "Negotiation",
+      "Leadership"
+    ],
+    "AverageSalary": 58000,
+    "LearningPath": "Negotiation; CRM"
+  },
+  {
+    "Id": 24,
+    "Name": "Graphic Designer",
+    "Category": "Creative",
+    "Description": "Designs visual content.",
+    "RequiredSkills": [
+      "Design",
+      "Creativity",
+      "Typography"
+    ],
+    "AverageSalary": 45000,
+    "LearningPath": "Design principles; portfolio"
+  },
+  {
+    "Id": 25,
+    "Name": "UI/UX Designer",
+    "Category": "Creative",
+    "Description": "Designs interfaces and experiences.",
+    "RequiredSkills": [
+      "User Research",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "AverageSalary": 55000,
+    "LearningPath": "Research; prototyping"
+  },
+  {
+    "Id": 26,
+    "Name": "Animator",
+    "Category": "Creative",
+    "Description": "Creates animations.",
+    "RequiredSkills": [
+      "Animation",
+      "Storytelling",
+      "Rendering"
+    ],
+    "AverageSalary": 50000,
+    "LearningPath": "2D/3D tools; storytelling"
+  },
+  {
+    "Id": 27,
+    "Name": "Video Editor",
+    "Category": "Creative",
+    "Description": "Edits video content.",
+    "RequiredSkills": [
+      "Editing",
+      "Color",
+      "Story"
+    ],
+    "AverageSalary": 48000,
+    "LearningPath": "Editing tools; pacing"
+  },
+  {
+    "Id": 28,
+    "Name": "Photographer",
+    "Category": "Creative",
+    "Description": "Captures photos.",
+    "RequiredSkills": [
+      "Composition",
+      "Editing",
+      "Light"
+    ],
+    "AverageSalary": 35000,
+    "LearningPath": "Camera; editing; portfolio"
+  },
+  {
+    "Id": 29,
+    "Name": "Mechanical Engineer",
+    "Category": "Engineering",
+    "Description": "Designs mechanical systems.",
+    "RequiredSkills": [
+      "Mechanics",
+      "CAD",
+      "Problem-solving"
+    ],
+    "AverageSalary": 70000,
+    "LearningPath": "ME degree; CAD"
+  },
+  {
+    "Id": 30,
+    "Name": "Civil Engineer",
+    "Category": "Engineering",
+    "Description": "Designs infrastructure.",
+    "RequiredSkills": [
+      "Structures",
+      "Planning",
+      "CAD"
+    ],
+    "AverageSalary": 70000,
+    "LearningPath": "CE degree; codes"
+  },
+  {
+    "Id": 31,
+    "Name": "Electrical Engineer",
+    "Category": "Engineering",
+    "Description": "Designs electrical systems.",
+    "RequiredSkills": [
+      "Circuits",
+      "EM",
+      "CAD"
+    ],
+    "AverageSalary": 72000,
+    "LearningPath": "EE degree; circuits"
+  },
+  {
+    "Id": 32,
+    "Name": "Robotics Engineer",
+    "Category": "Engineering",
+    "Description": "Builds robotic systems.",
+    "RequiredSkills": [
+      "Control",
+      "Sensors",
+      "Programming"
+    ],
+    "AverageSalary": 75000,
+    "LearningPath": "Control; sensors; programming"
+  },
+  {
+    "Id": 33,
+    "Name": "Architect",
+    "Category": "Engineering",
+    "Description": "Designs buildings.",
+    "RequiredSkills": [
+      "Design",
+      "BIM",
+      "Creativity"
+    ],
+    "AverageSalary": 75000,
+    "LearningPath": "Architecture degree; portfolio"
+  },
+  {
+    "Id": 34,
+    "Name": "Lawyer",
+    "Category": "Law",
+    "Description": "Represents clients in legal matters.",
+    "RequiredSkills": [
+      "Legal Knowledge",
+      "Research",
+      "Advocacy"
+    ],
+    "AverageSalary": 75000,
+    "LearningPath": "Law degree; bar exam"
+  },
+  {
+    "Id": 35,
+    "Name": "Judge",
+    "Category": "Law",
+    "Description": "Presides over court cases.",
+    "RequiredSkills": [
+      "Decision-making",
+      "Legal Knowledge",
+      "Integrity"
+    ],
+    "AverageSalary": 90000,
+    "LearningPath": "Law degree; judicial appointment"
+  },
+  {
+    "Id": 36,
+    "Name": "Paralegal",
+    "Category": "Law",
+    "Description": "Supports lawyers with research and documentation.",
+    "RequiredSkills": [
+      "Research",
+      "Documentation",
+      "Organization"
+    ],
+    "AverageSalary": 45000,
+    "LearningPath": "Paralegal training"
+  },
+  {
+    "Id": 37,
+    "Name": "Prosecutor",
+    "Category": "Law",
+    "Description": "Represents the state in criminal cases.",
+    "RequiredSkills": [
+      "Legal Knowledge",
+      "Public Speaking",
+      "Ethics"
+    ],
+    "AverageSalary": 80000,
+    "LearningPath": "Law degree; bar exam"
+  },
+  {
+    "Id": 38,
+    "Name": "Defense Attorney",
+    "Category": "Law",
+    "Description": "Defends individuals or organizations accused of crimes.",
+    "RequiredSkills": [
+      "Advocacy",
+      "Negotiation",
+      "Legal Knowledge"
+    ],
+    "AverageSalary": 78000,
+    "LearningPath": "Law degree; bar exam"
+  },
+  {
+    "Id": 39,
+    "Name": "Athlete",
+    "Category": "Sports",
+    "Description": "Competes in sports professionally.",
+    "RequiredSkills": [
+      "Fitness",
+      "Discipline",
+      "Teamwork"
+    ],
+    "AverageSalary": 50000,
+    "LearningPath": "Training; discipline"
+  },
+  {
+    "Id": 40,
+    "Name": "Coach",
+    "Category": "Sports",
+    "Description": "Trains and guides athletes.",
+    "RequiredSkills": [
+      "Leadership",
+      "Strategy",
+      "Motivation"
+    ],
+    "AverageSalary": 48000,
+    "LearningPath": "Sports science; experience"
+  },
+  {
+    "Id": 41,
+    "Name": "Sports Analyst",
+    "Category": "Sports",
+    "Description": "Analyzes sports performance.",
+    "RequiredSkills": [
+      "Analysis",
+      "Communication",
+      "Observation"
+    ],
+    "AverageSalary": 52000,
+    "LearningPath": "Statistics; sports knowledge"
+  }
+]

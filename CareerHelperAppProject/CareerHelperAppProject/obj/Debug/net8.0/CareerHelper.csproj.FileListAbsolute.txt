@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\bin\Debug\net8.0\CareerHelper.exe
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\bin\Debug\net8.0\CareerHelper.deps.json
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\bin\Debug\net8.0\CareerHelper.runtimeconfig.json
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\bin\Debug\net8.0\CareerHelper.dll
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\bin\Debug\net8.0\CareerHelper.pdb
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.AssemblyInfo.cs
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.dll
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\refint\CareerHelper.dll
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.pdb
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelper.genruntimeconfig.cache
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\ref\CareerHelper.dll

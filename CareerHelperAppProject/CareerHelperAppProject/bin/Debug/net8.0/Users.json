@@ -1,0 +1,186 @@
+[
+  {
+    "Id": 2,
+    "Name": "NINI",
+    "Age": 19,
+    "Email": "nini@gmail.com",
+    "Password": "nini",
+    "EducationLevel": "",
+    "Interests": "s",
+    "TestResults": [
+      {
+        "UserId": 1,
+        "TakenAt": "2025-12-12T11:56:17.6518866+04:00",
+        "TopCategory": "IT",
+        "Scores": {
+          "IT/Engineering": 14,
+          "Medicine/Public Service": 0,
+          "Education/Law": 0,
+          "Creative/Other": 0
+        },
+        "Recommended": [
+          {
+            "Id": 1,
+            "Name": "Software Developer",
+            "Category": "IT",
+            "Description": "Builds software applications.",
+            "RequiredSkills": [
+              "Programming",
+              "Algorithms",
+              "Problem-solving"
+            ],
+            "AverageSalary": 60000,
+            "LearningPath": "CS degree or bootcamp; build projects"
+          },
+          {
+            "Id": 2,
+            "Name": "Web Developer",
+            "Category": "IT",
+            "Description": "Creates websites and web apps.",
+            "RequiredSkills": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ],
+            "AverageSalary": 55000,
+            "LearningPath": "HTML/CSS/JS; a modern framework"
+          },
+          {
+            "Id": 3,
+            "Name": "Data Analyst",
+            "Category": "IT",
+            "Description": "Analyzes data to find insights.",
+            "RequiredSkills": [
+              "SQL",
+              "Excel",
+              "Visualization"
+            ],
+            "AverageSalary": 58000,
+            "LearningPath": "Statistics; SQL; dashboards"
+          }
+        ],
+        "Strengths": "Strong interest in: IT/Engineering",
+        "Weaknesses": "Lower interest in: Medicine/Public Service, Education/Law, Creative/Other"
+      },
+      {
+        "UserId": 1,
+        "TakenAt": "2025-12-12T11:57:04.9177818+04:00",
+        "TopCategory": "IT",
+        "Scores": {
+          "IT/Engineering": 13,
+          "Medicine/Public Service": 0,
+          "Education/Law": 0,
+          "Creative/Other": 0
+        },
+        "Recommended": [
+          {
+            "Id": 1,
+            "Name": "Software Developer",
+            "Category": "IT",
+            "Description": "Builds software applications.",
+            "RequiredSkills": [
+              "Programming",
+              "Algorithms",
+              "Problem-solving"
+            ],
+            "AverageSalary": 60000,
+            "LearningPath": "CS degree or bootcamp; build projects"
+          },
+          {
+            "Id": 2,
+            "Name": "Web Developer",
+            "Category": "IT",
+            "Description": "Creates websites and web apps.",
+            "RequiredSkills": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ],
+            "AverageSalary": 55000,
+            "LearningPath": "HTML/CSS/JS; a modern framework"
+          },
+          {
+            "Id": 3,
+            "Name": "Data Analyst",
+            "Category": "IT",
+            "Description": "Analyzes data to find insights.",
+            "RequiredSkills": [
+              "SQL",
+              "Excel",
+              "Visualization"
+            ],
+            "AverageSalary": 58000,
+            "LearningPath": "Statistics; SQL; dashboards"
+          }
+        ],
+        "Strengths": "Strong interest in: IT/Engineering",
+        "Weaknesses": "Lower interest in: Medicine/Public Service, Education/Law, Creative/Other"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "nino",
+    "Age": 17,
+    "Email": "nini1@gmail.com",
+    "Password": "nini",
+    "EducationLevel": "mid",
+    "Interests": "idk",
+    "TestResults": [
+      {
+        "UserId": 3,
+        "TakenAt": "2025-12-12T12:44:35.5549592+04:00",
+        "TopCategory": "Education",
+        "Scores": {
+          "IT/Engineering": 7,
+          "Medicine/Public Service": 0,
+          "Education/Law": 8,
+          "Creative/Other": 0
+        },
+        "Recommended": [
+          {
+            "Id": 13,
+            "Name": "Teacher",
+            "Category": "Education",
+            "Description": "Teaches students.",
+            "RequiredSkills": [
+              "Communication",
+              "Planning",
+              "Mentoring"
+            ],
+            "AverageSalary": 40000,
+            "LearningPath": "Teaching practice; pedagogy"
+          },
+          {
+            "Id": 14,
+            "Name": "University Lecturer",
+            "Category": "Education",
+            "Description": "Teaches at university.",
+            "RequiredSkills": [
+              "Subject Expertise",
+              "Presentation",
+              "Research"
+            ],
+            "AverageSalary": 52000,
+            "LearningPath": "Advanced degree; research"
+          },
+          {
+            "Id": 15,
+            "Name": "Tutor",
+            "Category": "Education",
+            "Description": "Guides students individually.",
+            "RequiredSkills": [
+              "Patience",
+              "Explaining",
+              "Organization"
+            ],
+            "AverageSalary": 35000,
+            "LearningPath": "Subject practice; coaching"
+          }
+        ],
+        "Strengths": "Strong interest in: Education/Law",
+        "Weaknesses": "Lower interest in: Medicine/Public Service, Creative/Other"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelperAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelperAppProject.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelperAppProject.AssemblyInfo.cs
+C:\Users\Home\source\repos\CareerHelperAppProject\CareerHelperAppProject\obj\Debug\net8.0\CareerHelperAppProject.csproj.CoreCompileInputs.cache
